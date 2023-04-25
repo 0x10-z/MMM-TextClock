@@ -28,6 +28,7 @@ Module.register("MMM-TextClock",{
 			  en: "translations/en.json",
 			  de: "translations/de.json",
 			  nl: "translations/nl.json",
+			  es: "translations/es.json",
 				sv: "translations/sv.json"
 		}
 	},
