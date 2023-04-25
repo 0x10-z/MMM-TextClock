@@ -39,11 +39,11 @@ To change the style of the marked words on the clock Field you have to add the c
 ## Language support
 
 as of 2017-04-27 :
-English, Swedish, German and Dutch.
+English, Swedish, German, Dutch and Spanish.
 
-German translation by garbleflux
-Dutch translation by pjkoeleman
-Spanish translation by 0x10-z
+- German translation by garbleflux
+- Dutch translation by pjkoeleman
+- Spanish translation by 0x10-z
 
 ## Configuration options
 
